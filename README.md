@@ -1,4 +1,4 @@
-# app Layout
+# App Layout
 
 Sistema desenvolvido como atividade vinculada ao módulo 2 do curso desenvolviento Web.
 
